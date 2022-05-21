@@ -1,5 +1,6 @@
 # SVG Icons 
 
+## Icons List
 <ol>
     <li>Stethoscope</li>
     <li>DNA</li>
@@ -13,9 +14,21 @@
     <li>Needle</li>
 </ol>
 
+## Brief description
 All icons are svgs, and have a brief description.
 
 Two css files: reset.css, main.css<br>
 One js file: main.js
 
 All js done on main.js, linked into external svg.
+
+## Contributing
+
+    1. Fork it!
+    2. Create your feature branch: git checkout -b my-new-feature
+    3. Commit your changes: git commit -am 'Add some feature'
+    4. Push to the branch: git push origin my-new-feature
+    5.  Submit a pull request :D
+
+## License
+MIT
