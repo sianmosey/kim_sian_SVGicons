@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="wholeHeart" class="icons" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 450.02 423.48" style="enable-background:new 0 0 450.02 423.48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#000000;}
+	.st1{fill:none;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    
+    #wholeHeart:hover .st1 {stroke:#9CFF88;}
+</style>
+<defs>
+    <script xlink:href="../js/main.js" type="text/javascript">
+    </script>
+</defs>
+<g id="heart">
+	<path class="st0" d="M224.33,423.48L40.88,229.49c0,0-59.65-51.13-34.83-133.83S95.76,3.93,95.76,3.93s75.94-23.31,128.57,43.61
+		C267.63-19.84,362.61,6.71,362.61,6.71s68.94,16.34,84.77,100.09c14.81,74.04-37.28,121.02-37.28,121.02L224.33,423.48z"/>
+</g>
+<g id="cardio">
+	<polyline class="st1" points="53.58,179.31 126.18,179.31 149.67,125.18 174.18,224.76 199.2,179.31 248.22,179.31 274.27,100.16 
+		298.78,245.18 324.82,179.31 396.86,179.31 	"/>
+</g>
+</svg>

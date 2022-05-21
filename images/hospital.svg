@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="wholeHospital" class="icons" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 421.77 421.77" style="enable-background:new 0 0 421.77 421.77;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#000000;}
+	.st1{fill:none;stroke:#000000;stroke-width:15;stroke-miterlimit:10;}
+	.st2{fill:#000000;}
+    
+    #wholeHospital:hover .st0 {fill:#000000;}
+    #wholeHospital:hover .st1 {stroke:#000000;}
+    #wholeHospital:hover .st2 {fill:#A2FC87;}
+</style>
+<defs>
+    <script xlink:href="../js/main.js" type="text/javascript">
+    </script>
+</defs>
+<g id="hospitalBack">
+	<path class="st0" d="M402.27,7.5H19.5c-6.6,0-12,5.4-12,12v382.77c0,6.6,5.4,12,12,12h382.77c6.6,0,12-5.4,12-12V19.5
+		C414.27,12.9,408.87,7.5,402.27,7.5z"/>
+</g>
+<g id="hospitalBorder">
+	<path class="st1" d="M402.27,414.27H19.5c-6.6,0-12-5.4-12-12V19.5c0-6.6,5.4-12,12-12h382.77c6.6,0,12,5.4,12,12v382.77
+		C414.27,408.87,408.87,414.27,402.27,414.27z"/>
+</g>
+<g id="hospitalH">
+	<g>
+		<path class="st2" d="M139.77,49.27v122.85H280.7V49.27h61.14v324.38H280.7V231.97H139.77v141.68H79.16V49.27H139.77z"/>
+	</g>
+</g>
+</svg>
